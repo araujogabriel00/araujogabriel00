@@ -1,6 +1,6 @@
 ### Welcome to my profile🦾
 
-👨‍💻 I’m currently learning Flutter for Apps and Java for academics applications
+👨‍💻 I’m currently learning Flutter for Apps and Java
 
 🦏 I do strength Sports and Arts Martials
 
