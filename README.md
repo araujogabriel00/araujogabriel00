@@ -23,6 +23,10 @@
 ![Heroku Badge](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
 
+
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Naereen&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **araujogabriel00/araujogabriel00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
