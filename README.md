@@ -1,6 +1,6 @@
 ### Welcome to my profile🦾
 
-👨‍💻 I’m currently learning PHP and JAVA
+👨‍💻 I’m currently learning JAVA and Microsservices
 
 🦏 I do strength Sports and Arts Martials
 
@@ -11,14 +11,9 @@
 
 
 🛠 Languages and Tools:
-![Php Badge](https://img.shields.io/badge/Php-430098?style=for-the-badge&logo=php&logoColor=white)
 ![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) 
 ![MySQL Badge](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) 
-![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-
-
 
 
 <!--
