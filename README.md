@@ -1,10 +1,6 @@
 ### Welcome to my profile🦾
 
-👨‍💻 I’m currently learning JAVA and Microsservices
-
-🦏 I do strength Sports and Arts Martials
-
-🏀 I love watch NBA
+Java Back-End Developer with solid experience in creating scalable solutions for the banking, agribusiness, and public sectors.
 
 📫 How to reach me: 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-de-araújo-santos)](https://www.linkedin.com/in/gabriel-de-araújo-santos)
